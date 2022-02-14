@@ -8,6 +8,7 @@
 - ### 2022-02-14
   - Changed XZ blocks for [clearance](XZ-blocks/clearance.png), they don't sit flat to the extrusion
   - Added a T-slot version with slightly differenc clearances
+  - Added my Y-idler fix to [very weak part](Y-idler/weak-slider.png)
 - ### 2022-02-13
   - 2 Fixed XZ blocks where the spacer isn't long enough
   - added some 5mm ABS washers in case M5x35 BHCS aren't available
@@ -15,6 +16,8 @@
 
 ## Todo
 - ~~Upload rear motor mount~~
-- Upload Y tensioner quickfix
-- X-Z motor mount screw length changes
-- Upper Block screw length changes
+- ~~Upload Y tensioner quickfix~~
+- X-Z motor mount screw length changes (using washer works)
+- Upper Block screw length changes (using washers works)
+- Add 10mm spacer to Y-axis, remove extension
+- Adapt printable deck for Y-motor
