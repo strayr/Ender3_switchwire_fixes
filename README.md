@@ -3,6 +3,9 @@
 
  [Triano](https://github.com/walttriano/Ender_3Pro_Switchwire) and [DaRk_dOg](https://github.com/boubounokefalos/Ender_SW) have produced an Ender 3 switchwire conversion mod. I'vew found a few issues during construcion and I thought I'd share my fixes
 
+ ## WARNING
+ **Before attempting an Ender 3 to switchwire mod, check your frame is not bent.** This will save you a lot of time later when things don't line up.
+
 ## Changes
 - ### 2022-02-16
   - Added modified rear deck for Y motor mod. Compatible with V2 and Pro Y rail.
