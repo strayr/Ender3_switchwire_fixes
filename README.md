@@ -27,5 +27,5 @@
 - ~~Upload Y tensioner quickfix~~
 - X-Z motor mount screw length changes (using washer works)
 - Upper Block screw length changes (using washers works)
-- Add 10mm spacer to Y-axis, remove extension
+- ~~Add 10mm spacer to Y-axis, remove extension~~
 - ~~Adapt printable deck for Y-motor~~
