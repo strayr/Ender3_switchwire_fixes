@@ -7,6 +7,10 @@
  **Before attempting an Ender 3 to switchwire mod, check your frame is not bent.** This will save you a lot of time later when things don't line up.
 
 ## Changes
+
+- ### 2022-04-25
+  - Reworked Y motor mod for 48mm steppers to work with pro and V2 with a spacer
+  - Added small bed knobs with 5 minute and 1 minute indents, edges of the large indents are 1 minute from the centre. Minutes here refer to clockface and not minutes of a degree.
 - ### 2022-02-16
   - Added modified rear deck for Y motor mod. Compatible with V2 and Pro Y rail.
 - ### 2022-02-14
