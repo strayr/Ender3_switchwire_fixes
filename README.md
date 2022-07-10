@@ -7,6 +7,8 @@
  **Before attempting an Ender 3 to switchwire mod, check your frame is not bent.** This will save you a lot of time later when things don't line up.
 
 ## Changes
+- ### 2022-07-10
+  - Quick and dirty hack on Y limit switch for more travel into -Y so the very front of the bed can be probed.
 
 - ### 2022-04-25
   - Reworked Y motor mod for 48mm steppers to work with pro and V2 with a spacer
