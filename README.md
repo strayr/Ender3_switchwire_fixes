@@ -1,12 +1,21 @@
 # Ender3_switchwire_fixes
  Some fixes to popular ender 3 switchwire conversions
 
- [Triano](https://github.com/walttriano/Ender_3Pro_Switchwire) and [DaRk_dOg](https://github.com/boubounokefalos/Ender_SW) have produced an Ender 3 switchwire conversion mod. I'vew found a few issues during construcion and I thought I'd share my fixes
+ [Triano](https://github.com/walttriano/Ender_3Pro_Switchwire) and [DaRk_dOg](https://github.com/boubounokefalos/Ender_SW) have produced an Ender 3 switchwire conversion mod. I'vew found a few issues during construcion and I thought I'd share my fixes. I reccomend starting with rev2 of DaRk_dOg's mod.
 
  ## WARNING
  **Before attempting an Ender 3 to switchwire mod, check your frame is not bent.** This will save you a lot of time later when things don't line up.
 
 ## Changes
+
+- ### 2022-12-12
+  - Added XZ blocks based on [Yenda's robust belt paths] https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/yenda/vsw_more_robust_belt_paths [XZ-blocks](XZ-blocks/yenda-mod/Screenshot%202022-12-11%20195843.png)
+  
+  - Added revised DaRk_dOg y cable chain mount that moves the mounting screw above the chain so mount can be removed with the chain in place. [Y-chain-mount](Y-chain-mount/Screenshot%202022-12-11%20195415.png)
+
+- ### 2022-11-28
+  - Updated Y motor mount for better clearances. 
+  
 - ### 2022-07-10
   - Quick and dirty hack on Y limit switch for more travel into -Y so the very front of the bed can be probed.
 
@@ -27,7 +36,7 @@
 ## Todo
 - ~~Upload rear motor mount~~
 - ~~Upload Y tensioner quickfix~~
-- X-Z motor mount screw length changes (using washer works)
+- ~~X-Z motor mount screw length changes (using washer works)~~
 - Upper Block screw length changes (using washers works)
 - ~~Add 10mm spacer to Y-axis, remove extension~~
 - ~~Adapt printable deck for Y-motor~~
