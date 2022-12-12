@@ -9,7 +9,7 @@
 ## Changes
 
 - ### 2022-12-12
-  - Added XZ blocks based on [Yenda's robust belt paths] https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/yenda/vsw_more_robust_belt_paths [XZ-blocks](XZ-blocks/yenda-mod/Screenshot%202022-12-11%20195843.png)
+  - Added XZ blocks based on [Yenda's robust belt paths](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/yenda/vsw_more_robust_belt_paths) [XZ-blocks](XZ-blocks/yenda-mod/Screenshot%202022-12-11%20195843.png)
   
   - Added revised DaRk_dOg y cable chain mount that moves the mounting screw above the chain so mount can be removed with the chain in place. [Y-chain-mount](Y-chain-mount/Screenshot%202022-12-11%20195415.png)
 
