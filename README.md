@@ -9,15 +9,19 @@
 ## Changes
 
 - ### 2022-12-12
-  - Added XZ blocks based on [Yenda's robust belt paths](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/yenda/vsw_more_robust_belt_paths) [XZ-blocks](XZ-blocks/yenda-mod/Screenshot%202022-12-11%20195843.png)
-  
-  - Added revised DaRk_dOg y cable chain mount that moves the mounting screw above the chain so mount can be removed with the chain in place. [Y-chain-mount](Y-chain-mount/Screenshot%202022-12-11%20195415.png)
+  - [Improved XZ Blocks](XZ-blocks/readme.md)
+    - Added XZ blocks based on [Yenda's robust belt paths](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/yenda/vsw_more_robust_belt_paths) 
+
+  - [Y Cable Chain Mount](Y-chain-mount/readme.md)
+    - Added revised DaRk_dOg y cable chain mount that moves the mounting screw above the chain so mount can be removed with the chain in place. [Y-chain-mount](Y-chain-mount/Screenshot%202022-12-11%20195415.png)
 
 - ### 2022-11-28
-  - Updated Y motor mount for better clearances. 
+  -[mount for larger Y motors](Y-motor/readme.md)
+    - Updated Y motor mount for better clearances. 
   
 - ### 2022-07-10
-  - Quick and dirty hack on Y limit switch for more travel into -Y so the very front of the bed can be probed.
+  - [Y_limit_switch](Y_limit_switch)
+    - Quick and dirty hack on Y limit switch for more travel into -Y so the very front of the bed can be probed.
 
 - ### 2022-04-25
   - Reworked Y motor mod for 48mm steppers to work with pro and V2 with a spacer
@@ -25,12 +29,14 @@
 - ### 2022-02-16
   - Added modified rear deck for Y motor mod. Compatible with V2 and Pro Y rail.
 - ### 2022-02-14
-  - Changed XZ blocks for [clearance](XZ-blocks/clearance.png), they don't sit flat to the extrusion
-  - Added a T-slot version with slightly differenc clearances
-  - Added my Y-idler fix to [very weak part](Y-idler/weak-slider.png)
+  - please note these mods are now deprecated
+  - ~~Changed XZ blocks for [clearance](XZ-blocks/clearance.png), they don't sit flat to the extrusion~~
+  - ~~Added a T-slot version with slightly differenc clearances~~
+  - ~~Added my Y-idler fix to [very weak part](Y-idler/weak-slider.png)~~
 - ### 2022-02-13
-  - 2 Fixed XZ blocks where the spacer isn't long enough
-  - added some 5mm ABS washers in case M5x35 BHCS aren't available
+  - Depricated, see yenda based XZ blocks
+  - ~~2 Fixed XZ blocks where the spacer isn't long enough~~
+  - ~~added some 5mm ABS washers in case M5x35 BHCS aren't available~~
   - Added [Y motor mount](Y-motor/Y-Axis_2022-Feb-12_03-43-32AM-000_CustomizedView12767374662.jpg) for V2 with the pulley reversed, so a 48mm stepper like an E3D High Torque can be used, or the voron spec LDOs of simialr specification and size. 
 
 ## Todo
