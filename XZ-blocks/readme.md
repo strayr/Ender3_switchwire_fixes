@@ -7,3 +7,7 @@ Based on [Yenda's robust belt paths](https://github.com/VoronDesign/VoronUsers/t
 ![Alt text](yenda-mod/img/photo-assembled.jpg)
 
 Not sure if these help or let me rule out one particular source of skewed belt path, but assembly is much easier as these always go on square.
+
+Best paired with these [XZ motor mounts](https://github.com/strayr/SWE3-motor-mounts) also based on Yenda
+
+Find more [switchwire conversion mods](https://github.com/SW-Conversion/mod-regisistry)

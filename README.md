@@ -46,3 +46,5 @@
 - Upper Block screw length changes (using washers works)
 - ~~Add 10mm spacer to Y-axis, remove extension~~
 - ~~Adapt printable deck for Y-motor~~
+
+Find more [switchwire conversion mods](https://github.com/SW-Conversion/mod-regisistry)
